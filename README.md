@@ -15,4 +15,4 @@ Steps:
   - git push origin feature/grace-tan
 8. Go to your github page and open a pull request from your forked repo to the original repo!
 
-Alma says HI!
+Alma says HI! hello!!
