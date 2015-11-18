@@ -14,3 +14,4 @@ Steps:
 7. Push your branch to repo on your Github!  
   - git push origin feature/grace-tan
 8. Go to your github page and open a pull request from your forked repo to the original repo!
+Caitlyn Pierre says hi!
