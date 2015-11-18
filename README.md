@@ -2,6 +2,7 @@
 This is our demo project for learning how to make pull requests! 
 
 Steps:
+
 1. Fork this repo: https://github.com/scriptEd-HSFI/everyone-say-hi
 2. Open up your forked repo up in Cloud9
 3. Create a branch called feature/{firstname-lastname}
