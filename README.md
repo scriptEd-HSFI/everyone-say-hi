@@ -1,4 +1,4 @@
-# everyone-say-hi
+# everyone-say-hi Diamond 
 This is our demo project for learning how to make pull requests! 
 
 Steps:
@@ -14,3 +14,5 @@ Steps:
 7. Push your branch to repo on your Github!  
   - git push origin feature/grace-tan
 8. Go to your github page and open a pull request from your forked repo to the original repo!
+blahhhhhhh!!!!!!!
+hi 
