@@ -1,6 +1,6 @@
 # everyone-say-hi
 This is our demo project for learning how to make pull requests! 
-
+Mariame says Hi!
 Steps:
 
 1. Fork this repo: https://github.com/scriptEd-HSFI/everyone-say-hi
