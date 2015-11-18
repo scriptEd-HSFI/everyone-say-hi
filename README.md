@@ -10,7 +10,9 @@ Steps:
 5. Add this line: “{Your name} says hi!” to README.md
 6. Git add and git commit 
   - git add README.md
-  - git commit -m "{your name} says hi"
+  - git commit -m "{yourname} says hi"
 7. Push your branch to repo on your Github!  
   - git push origin feature/grace-tan
 8. Go to your github page and open a pull request from your forked repo to the original repo!
+
+Brandy says hi
